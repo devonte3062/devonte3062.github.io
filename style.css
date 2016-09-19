@@ -1,0 +1,99 @@
+.assignment {
+	font-size: 12;
+	color: white;
+	background-color: black;
+	max-height: 100px;
+	max-width: 600px;
+	text-align: center;
+}
+.howto {
+	
+	font-size: 32;
+	font-weight: bold;
+	margin: auto;
+	text-align: center;
+}
+.DO {
+	max-width: 500px;
+	font-size: 18
+}
+
+.screenshot1 {
+	max-width: 300px;
+	margin: auto;
+}
+.step1instruction {
+	display: flex;
+}
+.class {
+	text-align: center;
+}
+.run {
+	max-width: 500px;
+}
+.screenshot2 {
+	max-width: 300px;
+	margin: auto;
+}
+.step2instruction {
+	display: flex;
+}
+.cmd {
+	max-width: 500px;
+	font-size: 18
+}
+.screenshot3 {
+	max-width: 300px;
+	margin: auto;
+}
+.step3instruction {
+	display: flex;
+}
+.command {
+	max-width: 500px;
+	font-size: 18
+}
+.screenshot4 {
+	max-width: 300px;
+	margin: auto;
+}
+.step4instruction {
+	display: flex;
+}
+.NICcard {
+	max-width: 500px;
+	font-size: 18
+}
+.screenshot5 {
+	max-width: 300px;
+	margin: auto;
+}
+.step5instruction {
+	display: flex;
+}
+.howto {
+	text-decoration: underline;
+}
+.step1 {
+	text-align: center;
+	background-color: #FFEB3B;
+}
+.step2 {
+	text-align: center;
+	background-color: #FFEB3B;
+}
+.step3 {
+	text-align: center;
+	background-color: #FFEB3B;
+}
+.step4 {
+	text-align: center;
+	background-color: #FFEB3B;
+}
+.step5 {
+	text-align: center;
+	background-color: #FFEB3B;
+}
+.congrats {
+	text-align: center;
+}
